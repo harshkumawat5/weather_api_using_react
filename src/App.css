@@ -1,0 +1,38 @@
+.weatherBg {
+  background: url('https://w0.peakpx.com/wallpaper/187/740/HD-wallpaper-lofoten-islands-morning-sunrise-cloudy-weather-norwegian-sea-coast-norway.jpg');
+  background-size: cover; 
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.heading{
+  color: white;
+}
+
+.resultBox
+{
+  
+  width: 500px;
+  height: 350px;
+  margin: auto;
+}
+
+.weatherIcon
+{
+  width:70px;
+  height: 70px;
+  border-radius: 30%;
+  margin-top: 2rem;
+}
+
+.Weathercity{
+  font-size: 32px;
+}
+
+.Weathertemperature{
+  font-size: 42px;
+}
